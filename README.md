@@ -1,48 +1,24 @@
-<h1 align="center">Hi 👋, I'm Stjepan Marić</h1>
-<h3 align="center">IT Student | Aspiring Data Analyst / Business Analyst / Data Scientist</h3>
+# Stjepan Marić
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/stjepan-maricc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+IT student at the Faculty of Organization and Informatics, University of Zagreb, focused on data analytics, business analysis, and data science. Open to data-focused IT roles.
 
----
+**Stack:** Python · SQL · PostgreSQL · Neo4j · pandas · scikit-learn · XGBoost · LangChain
 
-### 🎯 About me
+## Projects
 
-- 🎓 Studying **Information and Business Systems** at the Faculty of Organization and Informatics (FOI), University of Zagreb
-- 🧠 Currently on the **Artificial Intelligence in Business** track
-- 📊 Focused on **data analytics, business analysis, and data science**
-- 🚀 Actively looking for opportunities in the IT/data field — open to work
-- 🌱 The projects here come from university coursework, my thesis, and personal upskilling
+- **[Credit Card Approval Prediction](https://github.com/StipsMara/credit-card-approval-prediction)** — CRISP-DM classification model, 7 algorithms compared, fairness-evaluated.
+- **[Vehicle Sales Conversion Prediction](https://github.com/StipsMara/vehicle-sales-conversion-prediction)** — XGBoost model predicting sales conversion, explained with SHAP.
+- **[Croatia Renewable Energy Analysis](https://github.com/StipsMara/croatia-renewable-energy-analysis)** — climate data pipeline ranking cities for solar/wind investment.
+- **[MatchMind](https://github.com/StipsMara/matchmind-football-rag-chatbot)** — RAG chatbot over a local LLM, answering football rules questions.
+- **[Restaurant Review Sentiment Analysis](https://github.com/StipsMara/nlp-restaurant-review-sentiment)** — NLP sentiment classifier (Bag-of-Words, TF-IDF, Naive Bayes).
+- **[Fantasy Football League System](https://github.com/StipsMara/fantasy-football-league-system)** — PostgreSQL DB with scoring triggers + Tkinter UI.
+- **[KenKen Solver](https://github.com/StipsMara/kenken-solver-prolog-python)** — puzzle solver in Prolog and Python, comparing CSP approaches.
+- **[Padel Knowledge Graph](https://github.com/StipsMara/padel-knowledge-graph-neo4j)** — Neo4j graph modeling players, brands, tournaments.
 
----
+## Education
 
-### 🛠️ Tech Stack & Tools
+BSc Informatics, Information & Business Systems (AI in Business track) — FOI Zagreb
 
-<!-- TODO: update once projects are added - add badges for specific tools (Python, SQL, Power BI, Excel, etc.) -->
-<p align="left">
-  <img src="https://img.shields.io/badge/-Coming_soon-lightgrey?style=flat-square" />
-</p>
+## Contact
 
----
-
-### 📌 Featured Projects
-
-<!-- TODO: add cards/links for each project as they're added -->
-- 🍽️ **[Restaurant Review Sentiment Analysis](https://github.com/StipsMara/nlp-restaurant-review-sentiment)** — NLP text classification (Bag-of-Words, TF-IDF, Naive Bayes) predicting customer sentiment from reviews.
-
-> 🔧 More projects coming soon.
-
----
-
-### 📫 Get in touch
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/stjepan-maricc/">LinkedIn</a> 
-</p>
-
----
-
-<p align="center"><i>Open to IT / data opportunities — feel free to reach out!</i></p>
+[LinkedIn](https://www.linkedin.com/in/stjepan-maricc/) · [GitHub](https://github.com/StipsMara)
