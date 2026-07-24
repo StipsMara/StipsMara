@@ -1,9 +1,3 @@
-## Hi there 👋, I'm Stjepan Marić
-
-IT student pursuing Information and Business Systems at the Faculty of Organization and Informatics, University of Zagreb, specializing in AI in Business. 
-Interested in web development and applied data analysis, and always looking to turn coursework into real, working projects.
-
-
 <h1 align="center">Hi 👋, I'm Stjepan Marić</h1>
 <h3 align="center">IT Student | Aspiring Data Analyst / Business Analyst / Data Scientist</h3>
 
@@ -37,7 +31,9 @@ Interested in web development and applied data analysis, and always looking to t
 ### 📌 Featured Projects
 
 <!-- TODO: add cards/links for each project as they're added -->
-> 🔧 Work in progress — projects coming soon.
+- 🍽️ **[Restaurant Review Sentiment Analysis](https://github.com/StipsMara/nlp-restaurant-review-sentiment)** — NLP text classification (Bag-of-Words, TF-IDF, Naive Bayes) predicting customer sentiment from reviews.
+
+> 🔧 More projects coming soon.
 
 ---
 
